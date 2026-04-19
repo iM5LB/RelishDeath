@@ -202,7 +202,7 @@ economy:
 RelishDeath creates **real server-side entities** for graves with full Geyser compatibility:
 <div align="center">
 
-![Grave](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/Grave.png)
+![Grave](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/Grave.png?raw=true)
 
 </div>
 
