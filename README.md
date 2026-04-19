@@ -2,9 +2,7 @@
 
 ## ⚰️ Advanced Death Inventory Protection • Graves • Holograms • Particle Trails
 
-![RelishDeath-Logo](docs/assets/RelishDeathBanner.png)
-
-[![M5LBStoreBanner](docs/assets/M5LBStore.png)](https://m5lb.run.place/)
+![RelishDeath-Logo](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/RelishDeathBanner.png?raw=true)[![M5LBStoreBanner](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/M5LBStore.png?raw=true)](https://m5lb.run.place/)
 [![Discord](https://img.shields.io/badge/Discord-Support-7289da?style=for-the-badge&logo=discord)](https://discord.gg/hjKcHavRjT)
 [![Documentation](https://img.shields.io/badge/Docs-Read-blue?style=for-the-badge&logo=gitbook)](https://im5lb.github.io/relishdeath)
 [![Issues](https://img.shields.io/badge/🐛%20Issues-Report-orange?style=for-the-badge)](https://github.com/iM5LB/relishdeath/issues)
