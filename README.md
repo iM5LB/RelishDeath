@@ -204,7 +204,7 @@ economy:
 RelishDeath creates **real server-side entities** for graves with full Geyser compatibility:
 <div align="center">
 
-<img width="1360" height="705" alt="image" src="https://github.com/user-attachments/assets/0a244f21-bc0a-4bfc-a036-4631d6b5f74c" />
+![Grave](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/Grave.png)
 
 </div>
 
@@ -235,7 +235,7 @@ Dynamic particle trails guide players to their graves:
 
 <div align="center">
 
-![particle-trail](https://github.com/user-attachments/assets/81e01051-7384-414d-99d8-73b88d91d625)
+![particle-trail](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/particle-trail.gif?raw=true)
 
 </div>
 
@@ -260,8 +260,8 @@ When graves expire, they can be listed on the black market for other players to 
 
 <div align="center">
 
-<img width="1360" height="705" alt="image" src="https://github.com/user-attachments/assets/ab6c2238-0473-48c6-b802-610307efb2da" />
-
+![BlackMarket
+](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/BlackMarket.png?raw=true)
 </div>
 
 **Market Features:**
@@ -295,8 +295,7 @@ stash:
 Comprehensive backup and recovery system for server administrators:
 <div align="center">
 
-<img width="1360" height="705" alt="image" src="https://github.com/user-attachments/assets/56acbe21-0b96-4c39-8e6f-62363ae4d685" />
-
+![DeathBackups](https://github.com/iM5LB/RelishDeath/blob/master/docs/assets/DeathBackups.png?raw=true)
 
 </div>
 
