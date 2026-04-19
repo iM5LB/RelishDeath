@@ -325,23 +325,6 @@ trust:
   max-trusted-players: 10
 ```
 
----
-
-## 🔌 **Integrations**
-
-### 🧩 **PacketEvents**
-RelishDeath uses PacketEvents for its grave visuals and particle effects.
-
-### 🏛️ **Vault API**
-Vault enables economy pricing for premium features such as the black market.
-
-### 🪙 **RelishCurrencies**
-Optional integration for servers using RelishCurrencies as their economy layer.
-
-### 🧾 **SellGUI**
-Optional integration for item value calculation when pricing black market listings.
-
----
 
 ## 🌍 **Multi-Language Support**
 
