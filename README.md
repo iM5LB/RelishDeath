@@ -35,7 +35,7 @@ RelishDeath provides the most advanced death inventory protection system with re
 | **Server** | Paper, Purpur, or Paper-based forks |
 | **Java** | 21+ |
 | **Dependencies** | PacketEvents (required) |
-| **Soft Dependencies** | Vault (recommended), SellGUI (optional), RelishCurrencies (optional) |
+| **Soft Dependencies** | Vault (recommended), SellGUI (optional), RelishEconomy (optional) |
 
 ---
 
